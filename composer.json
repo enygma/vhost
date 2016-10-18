@@ -1,5 +1,18 @@
 {
-    "require": {
+    "name":"enygma/vhost",
+    "type":"library",
+    "description":"Simple virtualhost creation script (for local setup)",
+    "keywords":["virtualhost","vhost","development","setup"],
+    "homepage":"https://github.com/engyam/vhost.git",
+    "license":"MIT",
+    "authors":[
+        {
+            "name":"Chris Cornutt",
+            "email":"ccornutt@phpdeveloper.org",
+            "homepage":"http://www.phpdeveloper.org/"
+        }
+    ],
+    "require":{
         "enygma/cmd": "^0.4.0"
     }
 }
