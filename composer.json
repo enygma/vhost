@@ -1,0 +1,5 @@
+{
+    "require": {
+        "enygma/cmd": "^0.4.0"
+    }
+}
